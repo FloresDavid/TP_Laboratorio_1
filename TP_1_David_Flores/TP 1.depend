@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1535943329 source:f:\usuarios\alumno\escritorio\facultad\programacion y lab\tp 1\funciones.cpp
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1535943419 f:\usuarios\alumno\escritorio\facultad\programacion y lab\tp 1\funciones.h
+
+1535943243 source:f:\usuarios\alumno\escritorio\facultad\programacion y lab\tp 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.cpp"
+
+1535943329 f:\usuarios\alumno\escritorio\facultad\programacion y lab\tp 1\funciones.cpp
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
